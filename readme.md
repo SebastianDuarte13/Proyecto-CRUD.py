@@ -77,6 +77,7 @@ Las contribuciones a este proyecto son bienvenidas. Por favor, deje su comentari
 
 cabe resaltar que nunca hania utilizado la libreria streamlit y todo fue gracias a distintos videos de youtube y documentación de la pagina de streamlit aqui la dejo por si gustan revisarla -> https://docs.streamlit.io/ 
 
+
 ## Requisitos del programa
 
 ![](/requisitos%20del%20programa.png)
