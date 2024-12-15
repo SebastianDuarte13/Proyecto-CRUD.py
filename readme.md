@@ -75,7 +75,7 @@ streamlit run main.py
 
 Las contribuciones a este proyecto son bienvenidas. Por favor, deje su comentario y sugerencian en lo que podamos mejorar
 
-cabe resaltar que nunca hania utilizado la libreria streamlit y todo fue gracias a distintos videos de youtube y documentación de la pagina de streamlit aqui la dejo por si gustan revisarla -> https://docs.streamlit.io/ 
+cabe resaltar que nunca habia utilizado la libreria streamlit y todo fue gracias a distintos videos de youtube y documentación de la pagina de streamlit aqui la dejo por si gustan revisarla -> https://docs.streamlit.io/ 
 
 
 ## Requisitos del programa
