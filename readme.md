@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web de gestión de tareas construida con Streamlit y SQLite. Permite a los usuarios crear, visualizar, completar y eliminar tareas, así como exportar e importar listas de tareas.
 
+![](/img/General.png)
+
 ## Características 🧑‍💻
 
 - Agregar nuevas tareas con título y descripción
@@ -65,6 +67,15 @@ streamlit run main.py
 - La interfaz de usuario se construye usando componentes de Streamlit como `st.title()`, `st.header()`, `st.columns()`, etc.
 - Se manejan las interacciones del usuario (agregar, completar, eliminar tareas) y se actualiza la interfaz en consecuencia.
 
+
+<hr>
+
+![](/img/Parte%20uno.png)
+
+<hr>
+
+![](/img/PARTE%202.png)
+
 ## Notas 📃
 
 - La aplicación usa `st.rerun()` para actualizar la interfaz después de cambios en las tareas.
@@ -80,4 +91,4 @@ cabe resaltar que nunca habia utilizado la libreria streamlit y todo fue gracias
 
 ## Requisitos del programa
 
-![](/requisitos%20del%20programa.png)
+![](img/requisitos%20del%20programa.png)
